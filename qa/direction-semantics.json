@@ -1,0 +1,20 @@
+{
+  "directions": [
+    {"direction":"000","expected":"up","observed":"Both blue irises sit high with slightly lifted chins while faces stay frontal.","verdict":"pass","evidence":"Visible upper sclera balance, raised pupils, and upward nose/chin angle in both characters."},
+    {"direction":"022.5","expected":"up-right","observed":"Eyes and slight head yaw move one step from up toward screen-right.","verdict":"pass","evidence":"Pupils are high and right of each eye center; clasped hands and feet remain fixed."},
+    {"direction":"045","expected":"up-right","observed":"Both faces show a clear diagonal up-right gaze.","verdict":"pass","evidence":"High-right pupils and stronger rightward nose alignment than 022.5."},
+    {"direction":"067.5","expected":"up-right","observed":"The gaze approaches screen-right while retaining an upward component.","verdict":"pass","evidence":"Pupils remain above center and move farther right; head yaw increases smoothly."},
+    {"direction":"090","expected":"right","observed":"Both characters look clearly toward the image's right edge.","verdict":"pass","evidence":"Pupils and nose tips are right of head center with visible three-quarter frontal faces."},
+    {"direction":"112.5","expected":"down-right","observed":"Eyes and chins move below the horizontal rightward gaze.","verdict":"pass","evidence":"Pupils are low-right and both faces remain visible and anchored."},
+    {"direction":"135","expected":"down-right","observed":"A stronger diagonal down-right gaze is visible in both characters.","verdict":"pass","evidence":"Low-right pupils, lowered eyelids, and small chin drop preserve identity."},
+    {"direction":"157.5","expected":"down-right","observed":"The gaze approaches straight down from the right side.","verdict":"pass","evidence":"Pupils are low with a remaining right bias; no reversal or back view."},
+    {"direction":"180","expected":"down","observed":"Both full faces remain frontal and look straight down.","verdict":"pass","evidence":"Low centered pupils and lowered chins match the approved down cardinal."},
+    {"direction":"202.5","expected":"down-left","observed":"Eyes begin moving from down toward screen-left.","verdict":"pass","evidence":"Low-left pupils and slight left yaw while clasped hands and baseline stay fixed."},
+    {"direction":"225","expected":"down-left","observed":"Both characters show a clear diagonal down-left gaze.","verdict":"pass","evidence":"Pupils and nose cues are low-left with stable front/three-quarter faces."},
+    {"direction":"247.5","expected":"down-left","observed":"The gaze approaches screen-left while retaining a downward component.","verdict":"pass","evidence":"Leftward yaw increases and pupils remain below center without identity change."},
+    {"direction":"270","expected":"left","observed":"Both characters look clearly toward the image's left edge.","verdict":"pass","evidence":"Pupils and nose tips are left of head center with both faces still visible."},
+    {"direction":"292.5","expected":"up-left","observed":"Eyes and chins rise from the horizontal leftward gaze.","verdict":"pass","evidence":"Pupils are high-left and the head pitch begins lifting smoothly."},
+    {"direction":"315","expected":"up-left","observed":"Both characters show a clear diagonal up-left gaze.","verdict":"pass","evidence":"High-left pupils and subtle upward head pitch preserve the original eye design."},
+    {"direction":"337.5","expected":"up-left","observed":"The gaze approaches straight up from the left side and closes the loop.","verdict":"pass","evidence":"Pupils remain high with a small left bias; scale, feet, and clasped hands stay registered."}
+  ]
+}
